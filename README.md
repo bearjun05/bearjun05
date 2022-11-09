@@ -1,5 +1,11 @@
-<div align=center>
+<!-- <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=bearjun's%20github&fontSize=90" />
+</div> -->
+
+<div align=center>
+	
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=4682B4&height=300&section=header&text=BearJun's%20github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=back-end&descAlignY=57&descAlign=72.5)
+	
 </div>
 
 <div align=center>
@@ -59,6 +65,9 @@
 </div>
 
 <!--
+헤더 마크 다운 색깔
+https://colorate.azurewebsites.net/ko/Color/4682B4
+
 simple logo url
 https://simpleicons.org/?q=text
 
